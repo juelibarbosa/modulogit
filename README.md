@@ -1,3 +1,1 @@
-Meu primeiro arquivo
-
-Alteração no commit para descrever o sistema.
+Meu primeiro sistema no git alterado e atualizado
